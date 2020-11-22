@@ -3,4 +3,4 @@
 
 板载：USB/IR/Ehthernet/RTC/Touch/RS485/DS18B20(NTC)/NRF24L01等电路。
 
-
+以太网芯片为 W5500.触摸按键芯片为TS06.`
